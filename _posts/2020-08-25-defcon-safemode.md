@@ -2,6 +2,7 @@
 layout: post
 title:  "DEF CON Safe Mode"
 date:   2020-08-25
+author: Matt Smith
 categories: talks
 ---
 
